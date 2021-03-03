@@ -1,5 +1,6 @@
-// Freecodecamp Intermediate Algorithm Scripting #12
-
+/* Freecodecamp Intermediate Algorithm Scripting #12
+- Given a positive integer num, returns the sum of all odd Fibonacci numbers that are less than or equal to num.
+ */
 function sumFibs(num) {
     let a = 1;
     let b = 1;

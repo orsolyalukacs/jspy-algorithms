@@ -1,4 +1,5 @@
-// Freecodecamp Basic Algorithm Scripting #4
+/* Freecodecamp Basic Algorithm Scripting #4
+- Returns the length of the longest word in the provided sentence. */
 
 function findLongestWordLength(str) {
   let arrayFromWords = str.split(" ");

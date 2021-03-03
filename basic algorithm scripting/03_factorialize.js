@@ -1,4 +1,5 @@
-// Freecodecamp Basic Algorithm Scripting #3
+/* Freecodecamp Basic Algorithm Scripting #3
+- Returns the factorial of the provided integer. */
 
 function factorialize(num) {
     let factorial = 1;

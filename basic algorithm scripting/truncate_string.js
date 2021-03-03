@@ -3,8 +3,7 @@
 
 function truncateString(str, num) {
     if (str.length > num) {
-        let strSliced = str.slice(0, (num)) + '...'
-        return strSliced
+        return str.slice(0, (num)) + '...'
     }
     else {
         return str

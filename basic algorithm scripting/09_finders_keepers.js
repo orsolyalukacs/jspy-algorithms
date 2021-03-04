@@ -1,4 +1,4 @@
-/* Basic Algorithm Scripting #8
+/* Basic Algorithm Scripting #9
 - Creates a function that looks through an array arr and returns the first element in it that passes a 'truth test'. If no element passes the test, returns undefined.
 */
 
